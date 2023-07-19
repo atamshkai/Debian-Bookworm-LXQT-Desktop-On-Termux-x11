@@ -31,7 +31,7 @@ termux-setup-storage
 
 ## Install Bookworm Lxqt Desktop
 ```
-wget https://github.com/atamshkai/Debian-Bookworm-LXQT-Desktop-On-Termux-x11/blob/main/bookworm-qt.sh && bash bookworm-qt.sh
+wget https://raw.githubusercontent.com/atamshkai/Debian-Bookworm-LXQT-Desktop-On-Termux-x11/main/bookworm-qt.sh && bash bookworm-qt.sh
 ```
 
 #### Login again to terminal 
