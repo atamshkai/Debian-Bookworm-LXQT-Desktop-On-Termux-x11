@@ -1,5 +1,9 @@
 # Debian-Bookworm-LXQT-Desktop-On-Termux-x11
 
+This is a preinstalled Debian Bookworm Lxqt Desktop.For Android 12 & 13,before you install it,disable phantom process killer. 
+
+[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+
 # Preivew
 
 ![](https://raw.githubusercontent.com/atamshkai/Debian-Bookworm-LXQT-Desktop-On-Termux-x11/main/bookworm-qt.png)
