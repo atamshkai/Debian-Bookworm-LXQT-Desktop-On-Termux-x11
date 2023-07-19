@@ -39,10 +39,10 @@ wget https://raw.githubusercontent.com/atamshkai/Debian-Bookworm-LXQT-Desktop-On
 ```
 
 #### Login again to terminal 
-Before login to proot,start termux-x11 first. 
 ```
 exit
 ```
+Before login to proot,start termux-x11 first. 
 ``` 
 termux-x11 :1 
 ```
