@@ -57,6 +57,11 @@ bookworm-qt
 lxqt
 ```
 
+#### If you get dpkg returned error , write
+```
+save
+```
+
 ## Termux 
 [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
 
